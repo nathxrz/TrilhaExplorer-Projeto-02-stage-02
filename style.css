@@ -9,7 +9,7 @@ body{
     min-height: 100vh;
 }
 
-#area-princial{
+#container{
     width: 100%;
     max-width: 1000px;
 
@@ -41,7 +41,7 @@ nav{
     font-weight: 700;
 }
 
-#menu-topo{
+#header-menu{
     font-family: 'Mulish', sans-serif;
     font-size: 18px;
     font-weight: 400;
