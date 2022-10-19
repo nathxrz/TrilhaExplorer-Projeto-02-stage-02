@@ -12,10 +12,9 @@ O <strong>web site</strong> foi mais um dos projetos desenvolvidos durante a tri
 
 <br>
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 - HTML
 - CSS
-- DevTools
 
 <br>
 
