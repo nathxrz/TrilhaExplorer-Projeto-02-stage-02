@@ -56,19 +56,19 @@ nav{
     padding: 0;
 }
 
-#logo a, #menu-topo li a, h4 a{
+#logo a, #header-menu li a, h4 a{
     text-decoration: none;
 }
 
-#menu-topo li a{
+#header-menu li a{
     opacity: 0.5;
 }
 
-#menu-topo a, footer h4 a{
+#header-menu a, footer h4 a{
     color: #1F1534;
 }
 
-#menu-topo li a:hover{
+#header-menu li a:hover{
     font-weight: 700;
     opacity: 1;
 }
