@@ -21,6 +21,7 @@ O <strong>website treine.me</strong> foi mais um dos projetos desenvolvidos dura
 - Propriedades de fontes;
 - Propriedades de alinhamento e espaçamento;
 - Propriedades de listas e textos;
+- Cores gradiantes;
 - Box model;
 - Unidades de medidas;
 - Pseudo-classes;
